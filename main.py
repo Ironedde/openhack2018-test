@@ -3,3 +3,7 @@ if __init__ == "main":
 
 def memes():
     print("Hello")
+
+def hello():
+    print("asdasd")
+
