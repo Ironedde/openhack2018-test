@@ -7,3 +7,5 @@ def memes():
 def hello():
     print("asdasd")
 
+def function2()
+    print("From root directory")
