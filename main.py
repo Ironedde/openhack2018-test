@@ -9,3 +9,7 @@ def hello():
 
 def function2()
     print("From root directory")
+
+def function1()
+    print("I'm from testing directory")
+
